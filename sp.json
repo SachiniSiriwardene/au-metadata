@@ -2,7 +2,7 @@
    "softwareProducts":[
       {
          "softwareProductId":"111111",
-         "softwareProductStatus":"Inactive"
+         "softwareProductStatus":"Active"
       },
       {
          "softwareProductId":"SP2",
